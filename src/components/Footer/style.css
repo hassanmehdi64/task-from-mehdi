@@ -1,0 +1,17 @@
+footer{
+    background-color: #161b33;
+    height: 30vh;
+}
+
+.footer-inner{
+    height: 100%;
+}
+
+.footer-inner li{
+    color: #fff;
+    border-left: 2px solid #fff;
+    padding-left: 10px;
+}
+.footer-inner li:first-child{
+    border: none;
+}

@@ -1,0 +1,25 @@
+.nav-main-container{
+    background-color: #010311;
+    padding: 20px 0;
+}
+
+.nav-left .logo{
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+}
+.nav-left .nav-left-navigation ul li a{
+    color: #fff;
+}
+
+.nav-right .cart-number{
+    color: #fff;
+}
+
+.language-bar span{
+    color: #fff;
+}
+.language-bar{
+    border-left: 2px solid #fff;
+    padding-left: 15px;
+}
